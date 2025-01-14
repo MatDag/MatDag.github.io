@@ -122,6 +122,7 @@ sections:
         exclude_past: false
         publication_type: ""
       text: |- 
+        * **2024-06-25:** Talk at [STIC doctoral day](https://stic-saclay24.sciencesconf.org/resource/page/id/1) (Gif-sur-Yvette): *A framework for bilevel optimization that enables stochastic and global variance reduction algorithms*
         * **2024-05-02** Poster Session at [AISTATS](https://aistats.org/aistats2024/) (Valencia): *A lower bound a near-optimal algorithm for bilevel empirical risk minimization*
         * **2023-08-31** Poster Session at [GRETSI](http://gretsi.fr/colloque2023/) (Grenoble): *A lower bound a near-optimal algorithm for bilevel empirical risk minimization*
         * **2023-06-26** Poster Session at the workshop [Optimization and machine learning](https://aniti.univ-toulouse.fr/2023/05/16/aniti-et-prairie-vous-invitent-a-un-workshop-optimisation/) (Toulouse): *A lower bound a near-optimal algorithm for bilevel empirical risk minimization*

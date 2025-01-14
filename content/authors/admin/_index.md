@@ -10,7 +10,7 @@ role: Ph.D. student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Inria Saclay - Mind team
+  - name: Inria  - PreMeDICaL team
     url: https://team.inria.fr/mind/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,6 +20,7 @@ bio:
 interests:
   - Optimization
   - Machine Learning
+  - Privacy-preserving machine learning
 
 # Education to show in About widget
 education:
@@ -27,7 +28,10 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2022-
-    - course: MSc in Mathematics, Vision and Machine Learning (MVA)
+    - course: Ph.D. in Computer Science
+      institution: Université Paris-Saclay
+      year: 2024
+    - course: MSc. in Mathematics, Vision and Machine Learning (MVA)
       institution: École Normale Supérieure Paris-Saclay
       year: 2021
     - course: Engineering Diploma
@@ -69,6 +73,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student at {{< staticref "https://www.inria.fr/" "newtab" >}}Inria{{< /staticref >}} in the {{< staticref "https://team.inria.fr/mind/" "newtab" >}}Mind team{{< /staticref >}} working under the supervision of {{< staticref "https://pierreablin.com/" "newtab" >}}Pierre Ablin{{< /staticref >}}, {{< staticref "https://tommoral.github.io/" "newtab" >}}Thomas Moreau{{< /staticref >}} and {{< staticref "https://samuelvaiter.com/" "newtab" >}}Samuel Vaiter{{< /staticref >}}. I am currently working on bilevel optimization for Machine Learning.
+I am a postdoctoral researcher at {{< staticref "https://www.inria.fr/" "newtab" >}}Inria{{< /staticref >}} in the {{< staticref "https://team.inria.fr/premedical/" "newtab" >}}PreMeDICaL team{{< /staticref >}} working with {{< staticref "http://researchers.lille.inria.fr/abellet/" "newtab" >}}Aurélien Bellet{{< /staticref >}} on privacy-preserving machine learning. 
+
+Prior to that, I did my Ph.D. at {{< staticref "https://www.inria.fr/" "newtab" >}}Inria{{< /staticref >}} in the {{< staticref "https://team.inria.fr/mind/" "newtab" >}}Mind team{{< /staticref >}} under the supervision of {{< staticref "https://pierreablin.com/" "newtab" >}}Pierre Ablin{{< /staticref >}}, {{< staticref "https://tommoral.github.io/" "newtab" >}}Thomas Moreau{{< /staticref >}}, and {{< staticref "https://samuelvaiter.com/" "newtab" >}}Samuel Vaiter{{< /staticref >}}. I worked on bilevel optimization for machine learning.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
