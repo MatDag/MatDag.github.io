@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-With [Thomas Moreau](https://tommoral.github.io), [Samuel Vaiter](https://www.samuelvaiter.com) and [Pierre Ablin](https://pierreablin.com) we wrote a blogpost that got accepted in the blogpost track of ICLR2024. It explains the different ways to compute Hessian-Vector products with automatic differentiation and provides a benchmark comparing `Jax` and `PyTorch` in HVP computation. [You can check it out here!](https://iclr-blogposts.github.io/2024/blog/bench-hvp/)
+With [Thomas Moreau](https://tommoral.github.io), [Samuel Vaiter](https://www.samuelvaiter.com) and [Pierre Ablin](https://pierreablin.com) we wrote a blogpost that received a [highlight](https://blog.iclr.cc/2024/04/02/blogposts-track-iclr-2023-announcing-accepted-blogposts/) in the blogpost track of ICLR2024. It explains the different ways to compute Hessian-Vector products with automatic differentiation and provides a benchmark comparing `Jax` and `PyTorch` in HVP computation. [You can check it out here!](https://iclr-blogposts.github.io/2024/blog/bench-hvp/)
